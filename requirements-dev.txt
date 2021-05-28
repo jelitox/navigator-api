@@ -2,5 +2,5 @@ pytest
 pytest-cov
 pytest-asyncio
 pytest-xdist
-pytest-assume
+pytest-assume==2.4.2
 tox
