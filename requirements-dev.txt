@@ -3,4 +3,4 @@ pytest-cov
 pytest-asyncio
 pytest-xdist
 pytest-assume
-tox
+tox==3.23.1
