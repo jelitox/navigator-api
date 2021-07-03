@@ -2,5 +2,5 @@ pytest==6.2.4
 pytest-cov==2.12.1
 pytest-asyncio
 pytest-xdist==2.3.0
-pytest-assume
+pytest-assume==2.4.3
 tox
